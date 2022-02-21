@@ -12,6 +12,7 @@ public class Circulo {
                         System.out.println("Color: " + color);
                         double area = 2 * 3.1416 * rad * rad;
                          System.out.println(area);
+                      System.out.println("Modification from github")
            }
            public boolean esIgual (Circulo otro, boolean conDecimales)
            {
